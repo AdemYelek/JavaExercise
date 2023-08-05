@@ -8,7 +8,7 @@ public class Question02 {
 
         /*
 
-        Given an array of ints lenght 3, figure out which is larger, the first or last element in the array,
+        Given an array of ints lenght 3, figure out which element is larger in the array,
         and set all the other elements to be that value.Return the changed array.
 
         Example:
@@ -21,9 +21,8 @@ public class Question02 {
         /*
         In Turkish
 
-        int lerden olusan ve uzunlugu 3 olan bir array veridiginde,bu arrayin ilk elemani mi yoksa son elemani mi
-        daha buyuk belirleyip,hangisi daha buyukse arrayin tum elemanlarini ona esitleyen ve degismis arrayi
-        yazdiran bir method olusturun.
+        int lerden olusan ve uzunlugu 3 olan bir array verildiginde,bu arrayde hangi elemanin daha buyuk oldugunu belirleyip,
+        hangisi daha buyukse arrayin tum elemanlarini ona esitleyen ve degismis arrayi yazdiran bir method olusturun.
 
         Ornek:
         maxEndFirst([1,2,3])-[3,3,3]
