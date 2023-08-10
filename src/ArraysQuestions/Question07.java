@@ -1,3 +1,5 @@
+package ArraysQuestions;
+
 public class Question07 {
 
     /*
